@@ -20,12 +20,3 @@ Small interactive TCP connect port scanner written in Python. Attempts to connec
 
 ## Important legal & safety note
 Port scanning systems you do not own or have explicit permission to test can be considered intrusive or illegal in many jurisdictions. Only scan targets you own or where you have explicit authorization to test. Use this tool responsibly.
-
-## Improvements you might want
-- Add CLI flags (argparse) for non-interactive usage.
-- Add concurrency tuning and rate-limiting to avoid flooding networks.
-- Add optional UDP scanning (requires different approach).
-- Add more robust banner parsing and fingerprinting.
-
-## License
-Add your preferred license (e.g., MIT). This repository currently contains no license by default — include one if you intend to publish.
